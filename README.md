@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">tenho 19 anos, possuo um objetivo em me tornar um analista de sistema</p>
+<p align="left">Tenho 19 anos, possuo um objetivo em me tornar um analista de sistema.</p>
 
 ###
 
-<p align="left">🌱 Estudando atualmente Análise e desenvolvimento de sistemas na Fadesa<br>📚 Estou em busca da minha primeira oportunidade de emprego na área de tecnologia. Meu sonho é um dia trabalhar com front-end</p>
+<p align="left">🌱 Estudando atualmente Análise e desenvolvimento de sistemas na Fadesa<br>📚 Estou em busca da minha primeira oportunidade de emprego na área de tecnologia. Meu sonho é um dia trabalhar com front-end.</p>
 
 ###
 
